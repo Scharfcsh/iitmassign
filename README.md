@@ -9,17 +9,12 @@ This repository contains a Vite-based frontend project. The backend for this pro
 - [Running the Project](#running-the-project)
 - [Backend API](#backend-api)
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed on your system:
-
-- [Node.js](https://nodejs.org/) (version 16 or later)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-- A code editor like [VS Code](https://code.visualstudio.com/)
-
 ## Installation
-
+Note: Just setup the frontend, the backend is deployed in the VM and it endpoint are available!!
+---
 Follow these steps to clone and set up the project locally:
+
+
 
 1. **Clone the repository**
    ```bash
